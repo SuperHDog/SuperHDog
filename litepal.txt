@@ -1,0 +1,1 @@
+cd data/data/com.example.myapplication/cd datdabases
